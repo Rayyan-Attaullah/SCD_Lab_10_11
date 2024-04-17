@@ -8,7 +8,7 @@ pipeline {
 
             steps {
                 // Checkout code from GitHub repository
-                git 'https://github.com/aditya-sridhar/simple-reactjs-app.git'
+                git 'https://github.com/Rayyan-Attaullah/SCD_Lab_10_11'
             }
 
         }
@@ -58,5 +58,5 @@ pipeline {
         }
     }
 
-    
+
 }
